@@ -1,0 +1,11 @@
+{
+  "base_args": [
+    "cmd.exe",
+    "/C",
+    "call",
+    "\"C:\\Portsoft\\LaTeX\\Pygments\\run-in.bat\"",
+    "\"$USERPROFILE\\miniconda3\\envs\\env_pygments\\Scripts\\pygmentize.exe\""
+  ],
+  
+  "pyg_cache_dir": "C:\\Portsoft\\LaTeX\\Pygments\\pygmentize_cached\\cache"
+}
